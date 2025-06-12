@@ -1,3 +1,4 @@
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 # Найти индекс первого вхождения в строку.
 Для двух строк needle и haystack верните индекс первого вхождения needle в haystack или -1 в случае, если needle не является частью haystack.
 
